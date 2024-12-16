@@ -1,7 +1,7 @@
 /* General Styles */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f4f4f9;
+  background-color: #6d6dd7;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,6 +27,7 @@ body {
   text-align: right;
   font-size: 2em;
   margin-bottom: 20px;
+  min-height: 50px;
 }
 
 input {
@@ -36,8 +37,8 @@ input {
   width: 100%;
   font-size: inherit;
   text-align: right;
-  padding: 10px;
   outline: none;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 /* Buttons container */
